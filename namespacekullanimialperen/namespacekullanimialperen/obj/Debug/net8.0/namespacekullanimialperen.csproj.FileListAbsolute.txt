@@ -1,0 +1,14 @@
+C:\Users\memos\OneDrive\Masaüstü\namespacekullanimialperen\namespacekullanimialperen\obj\Debug\net8.0\namespacekullanimialperen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memos\OneDrive\Masaüstü\namespacekullanimialperen\namespacekullanimialperen\obj\Debug\net8.0\namespacekullanimialperen.AssemblyInfoInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\namespacekullanimialperen\namespacekullanimialperen\obj\Debug\net8.0\namespacekullanimialperen.AssemblyInfo.cs
+C:\Users\memos\OneDrive\Masaüstü\namespacekullanimialperen\namespacekullanimialperen\obj\Debug\net8.0\namespacekullanimialperen.csproj.CoreCompileInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\namespacekullanimialperen\namespacekullanimialperen\bin\Debug\net8.0\namespacekullanimialperen.exe
+C:\Users\memos\OneDrive\Masaüstü\namespacekullanimialperen\namespacekullanimialperen\bin\Debug\net8.0\namespacekullanimialperen.deps.json
+C:\Users\memos\OneDrive\Masaüstü\namespacekullanimialperen\namespacekullanimialperen\bin\Debug\net8.0\namespacekullanimialperen.runtimeconfig.json
+C:\Users\memos\OneDrive\Masaüstü\namespacekullanimialperen\namespacekullanimialperen\bin\Debug\net8.0\namespacekullanimialperen.dll
+C:\Users\memos\OneDrive\Masaüstü\namespacekullanimialperen\namespacekullanimialperen\bin\Debug\net8.0\namespacekullanimialperen.pdb
+C:\Users\memos\OneDrive\Masaüstü\namespacekullanimialperen\namespacekullanimialperen\obj\Debug\net8.0\namespacekullanimialperen.dll
+C:\Users\memos\OneDrive\Masaüstü\namespacekullanimialperen\namespacekullanimialperen\obj\Debug\net8.0\refint\namespacekullanimialperen.dll
+C:\Users\memos\OneDrive\Masaüstü\namespacekullanimialperen\namespacekullanimialperen\obj\Debug\net8.0\namespacekullanimialperen.pdb
+C:\Users\memos\OneDrive\Masaüstü\namespacekullanimialperen\namespacekullanimialperen\obj\Debug\net8.0\namespacekullanimialperen.genruntimeconfig.cache
+C:\Users\memos\OneDrive\Masaüstü\namespacekullanimialperen\namespacekullanimialperen\obj\Debug\net8.0\ref\namespacekullanimialperen.dll
